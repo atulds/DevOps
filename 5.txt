@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 new file 5.txt crerated
-=======
-creayed 5.txt
->>>>>>> 85f4b9d5928064f5063d6c86cc81231cade63b1a
+chnages noiw 
